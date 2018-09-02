@@ -1,0 +1,641 @@
+1) How to request a ride?
+1. Enter your destination address in the "Where to?" box, or tap a shortcut icon at the bottom of your screen. Shortcuts include recent destinations from your ride history or custom "Saved Places" you can set in your app
+2. Your default pickup point is set to your current GPS location. If you are not being picked up at your current location, tap your pickup location on the map and update the address
+3. Use the slider at the bottom of your screen to toggle between available vehicle options (for example, uberX or UberBLACK)
+4. Tap "Request." You may be asked to confirm your pickup location.
+5. Wait for a driver to accept your request.
+6. When your request has been accepted, you'll see your driver's location on your map and an estimated time of arrival at your pickup location
+7. Your app will notify you when your driver is close to your pickup location
+In some cities, you can also request a ride to more than one destination. 
+
+2) How to get a fare estimate?
+You can get a fare estimate in the rider app by following these steps:
+1. Enter your destination address in the "Where to?" box
+2. Your default pickup point is set to your current GPS location. If you are not being picked up at your current location, tap your pickup location on the map and update the address
+3. Use the slider at the bottom of your screen to toggle between available vehicle options (for example, uberX or UberBLACK)
+4. Fare estimates are displayed directly below each vehicle option. 
+If dynamic pricing is currently in effect at your pickup location, it will be included in the estimated fare amount. 
+These estimates do not include any promotions that are active on your account. 
+Please keep in mind that traffic, weather, or any factors that extend the distance or duration of your ride can contribute to a difference between your estimated and actual fare. 
+You can also visit the link below to get a fare estimate for any city around the world where Uber is available.
+
+
+3) When and where is Uber available in my city?
+Uber is available in many cities around the world. With an Uber account, you can request a ride in any city where Uber operates, 24 hours a day, 7 days a week.
+
+4) How to request more than one vehicle?
+Using your rider account, you may request one Uber vehicle at a time. You can request another vehicle immediately after a current trip ends.
+In many cities, Uber offers larger vehicle options like uberXL and UberSUV. These vehicle options accommodate 6 or more riders. If you’re requesting a ride for a large group, it’s a good idea to contact the driver who accepts your ride request. Confirm that the vehicle has enough seats and seat belts for everyone.
+If you want to ride in a group too large for a single vehicle, please ask others in your group to use their Uber accounts to request additional vehicles. 
+Riding with a large group is a great opportunity to invite friends to create their own Uber accounts. Select FREE RIDES from your app menu to get started. When invited friends take a first ride, you’ll receive a referral reward.
+
+5) How to schedule ride in advance?
+Uber now includes the option to schedule a ride 15 minutes to 30 days in advance using the Scheduled Rides feature.
+The Scheduled Rides feature allows you to select a 15 minute pickup window for a driver to come pick you up. A driver will be requested on your behalf before the start of your 15 minute window so that it arrives in the window and you're on your way to your destination. Scheduling a ride in advance does not guarantee you'll be connected with a driver. In the rare case a driver cannot be found, you'll be notified at the end of your selected time window.
+1. Tap the car icon with the clock located just to the right of the "Where to?" bar
+Select a date and a 15-minute window of time 
+2. Tap SET PICKUP TIME
+3. The pickup location will automatically set to your current location. Tap "Current Location" to edit the pickup location. You'll have to move where the cursor is set. 
+4. Set your destination 
+5. Review your fare estimate and tap SCHEDULE.
+
+
+6) How to cancel a future scheduled ride?
+1. In the app menu, tap Your Trips. 
+2. Select Upcoming
+3. Select EDIT TIME or CANCEL RIDE
+You can change or cancel your request at any point before being matched with a driver without any charge. Normal cancellation fees apply once you have been connected with a driver. 
+
+7) Where and when can I schedule rides in advance?
+You can schedule a ride in nearly all cities where Uber is available. Check your app to see if Scheduled Rides is available in your area. 
+You can use Scheduled Rides for trips to the airport, but they are not currently available when leaving an airport. If you're leaving an airport you can still request a ride on-demand as you normally would. 
+Scheduled Rides are available at all times of the day.
+
+
+
+
+8)How much does scheduling rides in advance cost?
+Scheduled Rides are priced exactly like a normal Uber ride, and are subject to pricing - based on demand - at the time the ride is scheduled for. If dynamic pricing is in effect, you'll be notified via push notification of your updated fare estimate when your request begins.
+
+9) How to accept a trip fare?
+Depending on the city where you're using Uber, your app may display fares for each available vehicle option when you've selected a destination.
+
+IF YOUR APP IS DISPLAYING FARES
+By selecting the vehicle option icon you prefer, you agree to be charged the displayed fare when you arrive at your destination. Tap the black REQUEST button to accept the fare and request a ride.
+
+Trip fares are based on factors that include estimated time and distance to your destination. Fees and surcharges are also included. The fare you are actually charged may increase if your trip takes longer than expected. Extra stops on a trip, changing the destination, or making a driver wait several minutes at your pickup location can also add to your fare.
+
+Fares displayed in your app vary based on current demand for rides near your pickup location. Your app may notify you that fares are higher than usual. You can wait a few minutes and check fares again. If demand has decreased or more drivers are available, fares may go down.
+
+IF YOUR APP IS NOT DISPLAYING FARES
+If your app doesn't show an upfront fare, you can still request a ride. Your trip's fare will be calculated when you arrive at your destination. Your fare may vary based on current demand for rides near your pickup location at the time you request a ride.
+
+You'll have the option to obtain a fare estimate in the app or on the web, which is displayed as a price range that includes all applicable fees and surcharges based on the estimated route from your pickup location to your destination. If your trip includes additional wait time, or a change in destination, or takes significantly longer than expected, your actual fare may fall outside this estimated range. 
+
+
+10) Can I request a specific driver?
+The Uber app cannot match you with a specific driver.
+When you request a ride, your app sends your request to nearby drivers to pick you up at your pickup location.
+
+
+11) Can I use Uber for long trips?
+If you are planning to take a long trip,it is a good practice to let your driver know in advance by calling your driver after you have requested your trip. Many drivers need to make the return trip home after reaching your destination, so it's helpful to give them a heads up. 
+
+
+12) Can I use uber to and from airports?
+You can Uber to and from many major airports around the world.
+
+RIDING TO AIRPORTS
+When you have a flight to catch, check the ETA for your preferred vehicle option 15-30 minutes before you're ready to request pickup. 
+
+External factors like road construction or heavy traffic can lead to longer travel times. Giving yourself some extra time will help reduce the stress that can be caused by traveling on a tight schedule. 
+
+PICKUP FROM AIRPORTS
+It's good practice to collect your luggage from the baggage claim area and be ready to step outside before requesting pickup.
+
+Many airports have specific requirements about where riders can be picked up by vehicles on the Uber platform. Your app will confirm pickup location(s) when you're required to meet a driver at a specific area or level of the airport.
+
+After your ride request is accepted by a nearby driver, your app may ask you to select a precise terminal location and door where your driver should meet you. You may also receive a call from your driver to clarify which door or section you'll meet at.
+
+Please let drivers know if you're planning to travel a long distance from the airport. Many drivers need to make a return trip home after reaching your destination.
+
+
+13) Can I ride with my pet?
+In accordance with state and federal laws, as well as Uber's policies, service animals are permitted to accompany riders at all times. If you're traveling with a pet that's not a service animal, drivers may choose whether or not to allow the pet in their vehicle.
+
+If you're planning to ride with a pet that's not a service animal, it's good practice to contact the driver who accepted your ride request to let them know. You can use the Uber app to send a text message or call your driver.
+
+Please help drivers keep vehicles clean for all riders by bringing a carrier or blanket to reduce the risk of damage or mess. Some drivers may keep a blanket or other covering in the trunk of their vehicle.
+
+Out of respect for other riders, unless you have a service animal, pets are not allowed on uberPOOL trips. 
+
+
+14) How to select a type of vehicle?
+We’re currently launching a redesigned rider app in cities around the world. Read on to learn how to select a vehicle option using either the new or old rider app. 
+
+If your app displays a white “Where To?” box:
+
+Tap the destination box to enter your destination. After you set your destination, your ride menu at the bottom of the app screen slides up to display vehicle options available in your city. 
+
+Swipe left and right to view different vehicle option categories that provide more detail.
+
+Scroll to the right to see more options and swipe up to see more details on the ride and the fares. 
+
+Economy offers the most affordable vehicle options.
+
+Premium includes high end and luxury options.
+
+Extra Seats offers vehicles with room for more riders.
+
+More includes additional vehicle options (such as UberWAV and UberTAXI)
+
+As you scroll through vehicle options, note that each one includes upfront pricing to give you a clear sense of how much a ride to your destination should cost. Tap your preferred vehicle option to select it. Then tap the black REQUEST button at the bottom of your screen when you’re ready to ride.
+
+If you see a slider at the bottom of your app screen that allows you to select a vehicle option: 
+
+Use the slider at the bottom of your app screen to select a vehicle option that fits your needs. Tap any vehicle option icon for a fare estimate.
+
+When you have selected your preferred option and pickup location, tap SET PICKUP LOCATION to move to confirming your request for a ride. 
+
+Visit the link below to explore vehicle options and fares in cities around the world. 
+
+
+15) How do ETAs work?
+Before a trip starts, your app provides an ETA for when your driver should arrive at your pickup location.
+
+After your trip starts, your app provides an ETA for when you should arrive at your destination.
+
+Please note that ETA times are estimates and not guaranteed. A variety of external factors like heavy traffic or road construction can impact travel time.
+
+Before you request a ride, your app displays a time in the black SET PICKUP LOCATION bar. This time estimates how long nearby drivers should take to arrive at your pickup location. 
+
+Using the slider at the bottom of your screen, you can view the ETA for each vehicle option available in your city.
+
+After a trip starts, your app will continually update the ETA for your destination
+
+
+16) Is it possible to change my pick-up location?
+When you request a ride, the app uses GPS to suggest the best pickup location nearby. 
+
+If you need a different pickup location:
+1. Tap on the pickup location label on the map
+2. Enter a new address or building 
+3. Choose from one of the locations suggested by the app
+
+You can also change your pickup location after you request a ride. To do this:
+1. Tap "Edit" next to your pickup location
+2. Type a new address or drag your pin to any location on the map within the grey circle
+3. Tap the "Confirm" button to complete your request
+
+You'll only be able to adjust your pickup location one time, and it can only be moved within the circle that's shown on your screen. 
+
+Note: Changing your pickup location is not available on uberPOOL.
+ 
+
+17) How do I contact my driver?
+Uber allows you to contact your driver without revealing your phone number by placing your call through a masking number that is unique to your trip. 
+
+To contact a driver before you've been picked up, tap the driver's name to see contact options. Note that you can only place a call through your app with a phone that has the number registered to your Uber account. If you switch phone numbers, be sure to update your Uber account info. 
+
+When you call or text, drivers will not see your personal phone number. Instead, they'll receive a call or text message from a unique, anonymous local number. This anonymized number may change. If a driver saves this number and tries to use it later to contact you, the call won't connect. 
+
+If you're having trouble contacting a driver with your app, make sure:
+- your phone number is entered correctly in your Uber account
+- your caller ID is not blocked
+- you're calling from the correct phone number if you're using a dual-SIM phone or have Google Voice enabled
+
+
+18) How to cancel a ride? 
+You can cancel a trip at any time before or after you've been paired with a driver, but in some situations, you may be charged a fee. 
+
+1. Tap the white info bar at the bottom of your screen
+2. Tap Cancel
+3. You'll be asked to confirm. Tap Yes.
+
+When cancellation fees don't apply:
+If your driver is late by 5 or more minutes. The time is based on the ETA that's displayed when your trip is first accepted
+If Uber detects that your driver isn't making progress to your pickup location
+
+When you'll be charged a cancellation fee for uberPOOL trips
+If you cancel more than 1 minute after your POOL request has been accepted. In some cases, your cancellation fees will be based on how far your driver has already driven.
+If your driver cancels after waiting at least 2 minutes at your pickup location
+
+When you'll be charged a cancellation fee for non-POOL trips 
+If you cancel more than 2 minutes after your request has been accepted. In some cases, your cancellation fees will be based on how far your driver has already driven.
+If your driver cancels after waiting at least 5 minutes at your pickup location
+
+No surprises
+You'll always be shown the exact fee when you cancel a trip before you confirm your cancellation. 
+
+Consecutive cancellations
+To keep the app running smoothly for everyone, you may be charged a penalty when you cancel trips more than once in a short period of time. 
+
+Requesting a refund
+If you believe you were incorrectly charged a cancellation fee, request a refund through the link below. 
+
+
+19) How do I share my location?
+Riders can show their exact location to their drivers by turning on Live Location Sharing. 
+
+This feature helps your driver locate you as you make your way to the pickup location. 
+
+HOW IT WORKS
+When your driver arrives at the pickup spot, they will see an extra icon on their map indicating where you are. Once your trip begins, your driver will no longer be able to see your location. 
+
+TURN LOCATION SHARING ON OR OFF
+You can switch the feature on/off by using the toggle in the bottom right of the map screen. You can also turn it on or off within the Settings of your app. To do this: 
+1. Tap the menu icon
+2. Select "Settings"
+3. Swipe down and select "Privacy Settings"
+4. Tap "Location"
+5. Select "Share Live Location"
+
+
+20) Is it possible to request ride using my Apple watch?
+You can use Apple Watch to request rides and receive notification when the driver is arriving at your pickup location.
+
+Uber's Apple Watch app will be set to your last selected vehicle option and payment method. Your pickup location is set based on your GPS location. To change these settings before you request, use the Uber app on your iPhone.
+
+Some features cannot be accessed with Apple Watch. These include: 
+- uberPOOL
+- Split Fare
+- Share my ETA
+- Contact Driver
+
+
+21) Can I request ride for my friends?
+You can use your app to request a ride for someone else. 
+
+First try this: 
+1. Tap "Where to?" and enter your friend's pickup location 
+2. Select "Someone else" 
+(NOTE: if you do not see this option, go to the section called "ALTERNATIVELY")
+3. Enter your friend's contact details: Either select their contact information from the contact picker or type in their mobile number 
+4. Select your friend; make sure they have an arrow on their icon
+5. Enter your friend's destination 
+6. Tap "Confirm Rider" and "Request"
+
+ALTERNATIVELY:
+If you didn't see the option to select "Someone else", try this instead: 
+1. Tap the "Where to?" box 
+2. Tap the dropdown icon next to your name 
+3. Continue through the rest of the steps described above 
+
+Once the trip is accepted, your friend will get text messages from Uber with details like the driver's ETA, the driver's name, license plate number, and vehicle make and model.
+
+It is not possible to request more than one ride at a time. When you request a ride for a friend, you'll need to wait until that trip ends before requesting a new ride for yourself or anyone else. 
+
+
+
+22) How do I use Uber Credits to take a ride?
+If you have Uber credit on your account, it can be automatically applied to trip fares and cancellation fees. You can always see how much credit you have on your account by selecting "Payment" from your app menu.
+
+You can toggle credit On or Off after you've set your destination and before you select your vehicle option.
+
+1. Tap the white credit bar above the black REQUEST button and then tap "Change payment method."
+2. On the "Payment Options" screen, use the slider on the bar next to your credit amount. 
+3. Slide to the left to toggle credit Off. Slide to the right to toggle credit On. 
+
+Please note that once the trip has been requested, you cannot toggle your credit On or Off. If you wish to switch your payment method, tap HELP in your app to let us know. We'll be happy to switch it for you.
+
+When you're charged a fare or fee greater than your credit amount, your selected payment method is charged the remaining balance. You can select or add your preferred payment method before or during a trip. 
+
+
+23) Can I use multiple profiles with my Uber account?
+Profiles help riders manage travel. You can create different account profiles within your main rider account. Each profile has a default email and payment method that you choose. 
+
+When you take a trip with a profile, the fare is automatically charged to that profile's default payment method. The trip receipt will be sent to the profile's default email address.
+
+SELECTING A PROFILE FOR A TRIP
+Before requesting a trip, you can select your profile by tapping the round icon in the top right corner of your app.
+
+After setting your destination, you can also change your profile by tapping the payment option bar directly above the "Request" button. 
+
+SWITCHING A PROFILE DURING A TRIP
+During a trip, swipe up on the app's screen to change your profile. If a payment method is associated with another profile, tap your profile name and change to the profile you would like to use. 
+
+CREATING AND EDITING PROFILE SETTINGS
+1. Select SETTINGS > Profiles and tap the profile you'd like to modify.
+2. Go to PREFERENCES > Default Payment.
+3. Tap ADD PAYMENT to choose a different option.
+4. Tap Save. This option will be your default profile payment method. You can modify it anytime.
+
+
+24) How can I pay split fare with a friend in Uber using uberPOOL?
+Your app includes a Split Fare feature that allows you to divide a trip fare equally between your account and other riders' accounts. Here's how:
+
+1. Request a ride.
+2. Before or during the ride, swipe up from the bottom of the app.
+3. Tap your selected payment method.
+4. Tap Split Fare.
+5. Enter the names or phone numbers of other riders.
+6. Your fellow riders are immediately sent a notification request to accept your split fare. 
+
+In order for the fare to be split, other riders must accept before the trip ends. Your trip fare will be divided equally between yourself and all other riders who accept. If a fellow rider chooses not to accept split fare or doesn't have a valid payment method, you'll be charged for both your portion and theirs. The split fare feature is unavailable for certain vehicle options, including uberPOOL. 
+
+Fares cannot be split after the trips ends and your payment method has been charged. 
+Please note that when a fare is split, each participating rider is charged a 25 cent fee.
+
+Note: Apple Pay may not work on split fares. If you use Apple Pay but want to split a fare, you may need to use another payment method. You can switch back to Apple Pay on your next trip.
+
+
+25) How to change a payment method pay during a trip?
+You can change your payment method before and during a trip. Please note that if you are in a city that accepts cash as a payment option, you will not be able to switch to or from cash while your trip is in progress.
+
+While on a trip, swipe up on the app to change your payment method. Tap the last 4 digits of your card number to go to the Payments section of the menu. There, you can select a different payment method already linked to your Uber account or add a new payment method. 
+
+
+26) Do riders pay tolls or surcharges?
+Additional charges may apply to your trip, including tolls, surcharges, or other fees. These charges are automatically processed through our system, and you will be charged if a trip goes through a toll. Tolls will be listed on your receipt.
+
+Please note that charges added to your trip fare may not exactly match the amount paid by your driver. For example, you may be assessed a surcharge when a driver pays a toll when returning to your city of origin, or for pickups or drop-offs at an airport. 
+
+You may also be charged the standard amount of a toll when the driver is entitled to a discount because they are in an HOV lane, driving an electric vehicle, or using a transponder. In some cities, tolls and surcharges reflect an estimate. This is due to fluctuations in the amount actually paid. You may also pay an additional charge to your driver for other costs or inconveniences, such as a parking fee to enter a venue or a long return trip after arrival at your final destination. 
+
+Depending on the charge and location, these additional charges may be retained by your driver, paid by your driver to Uber, or passed through to the airport or other third parties. 
+
+
+27) What are suggested pickup points?
+
+To make pickups easier for riders and drivers, your app may suggest nearby pickup locations close to where you'd like to be picked up.
+
+Suggested pickup locations appear as green dots based on where other riders have been picked up quickly and easily in the past. You're free to move the pin on your map to any of these points.
+
+When you choose a pickup location in other areas of a city, your app may prompt you to select a “Quicker pickup nearby” when you tap SET PICKUP LOCATION. 
+
+Tap OK to automatically move your pin to these locations. Tap NO THANKS to set the pin yourself.
+
+
+28) How to identify a driver and vehicle?
+
+When you request a ride, your app sends your request to nearby drivers. After you're matched with a driver, your app shares info about the vehicle and driver headed to your pickup location. 
+
+Tap the bar that includes the driver’s name, photo, and vehicle. This displays a photo of your driver along with the vehicle's make, model, and license plate number. 
+
+When you see your driver's vehicle at your pickup location, confirm that the license plate number displayed in your app matches the actual vehicle. Drivers will often ask your name before starting the trip. 
+
+29) Is there a wait time fees?
+In some locations, a per-minute wait time fee will begin a few minutes after your driver arrives at your location. We'll notify you that the charge has started, and it will continue until your driver begins the trip.
+
+If your trip is cancelled and you are charged a cancellation fee, you will not be charged for wait time. Additionally, this fee may not apply to airports or certain other venues. It does not apply to certain trip types, such as uberPOOL.
+
+Wait time fees and thresholds vary by location. Use the fare estimator below to see if they exist in your city.
+
+
+30) Can I share ETA and trip status?
+When you request a ride and a driver accepts, you can swipe up on your app screen and tap Send Status. This shares your trip details with friends or family.
+
+They'll receive a SMS text message with a link. Opening this link displays your driver's first name, vehicle info, and your map location in real-time.
+
+To pre-select up to 5 contacts to receive your status, select Settings from your app menu. You can also add more contacts manually when sending your trip status. 
+
+Send your trip status link manually (via another app, by email, etc) by copying the link that appears at the bottom of your app when you tap Send Status.
+
+
+31) How do I share my pick-up location?
+When you request a ride, your driver will see where you've place your pickup location pin. For improved pickups, you can enable sharing your physical GPS location. This helps drivers know if you are coming towards them, or where to look for you if your pin is not in your exact location. 
+
+To turn on or off pickup location sharing with your driver, tap the circle icon near the bottom right corner of the map once you've been assigned a driver. 
+
+You can also do this through your settings: 
+1. Tap the menu icon in the top left corner of your screen 
+2. Tap Settings 
+3. Scroll down and tap Privacy Settings 
+4. Tap Location 
+5. Toggle Share Live Location to the on or off position 
+
+HOW DO I KNOW IF MY LOCATION IS SHARING? 
+Once you're connected to a driver after requesting a trip, you'll see an icon in the bottom right hand corner of the map. When the icon is blue, you are sharing your location with the driver, and when it's grey, you are not. 
+
+WILL MY LOCATION ALWAYS BE SHARED?
+When enabled, your location is only shared until your trip begins or is cancelled. If you use this feature it will be on for all trips, unless you disable it. 
+
+
+32) How do I rate my driver?
+Ratings allow us to ensure a great experience for both riders and drivers. We take ratings very seriously; consistent with our Community Guidelines, drivers with low ratings may lose access to the Uber app.
+
+RATE YOUR DRIVER
+At the end of each trip, you'll be able to rate your driver from 1 to 5 stars. You can also provide this rating at the bottom of your receipt.
+
+Note: A driver's overall rating is an average of his or her last 500 completed trips. They'll never see the specific rating you give.
+
+Your rating should reflect the quality of service you think was provided by that particular driver. 
+
+UNDERSTANDING RATINGS
+Having trouble choosing a rating for your driver? Here are a few tips:
+-5 stars means there were no issues on the trip 
+-If we see a 1-Star rating, it typically means that there is a serious problem with a driver
+
+PROVIDING FEEDBACK 
+If you select a rating lower than 5, we'll ask you to provide anonymous feedback to your driver about what could be improved. If the reason you selected a rating lower than 5 is not available, you can select "Other." 
+
+
+33) What is dynamic pricing?
+The fare you see varies based on a number of factors. These factors are subject to change over time and include (but are not limited to):
+
+- The estimated time and distance of the predicted route
+- Estimated traffic
+- The number of riders and drivers using Uber at a given moment 
+
+When fares are higher due to dynamic pricing, riders in cities with upfront pricing see the actual fare before they request a ride. In cities where upfront fares are not available, riders are notified by their app that fares are currently higher than normal. 
+
+Dynamic fares help match riders with drivers to improve the chance of a quick pickup. Dynamic pricing may cause fares to temporarily increase. This encourages more drivers to get on the road and head to areas of the city where demand is high for rides. 
+
+If you believe you paid more for a trip than you should have:
+1. Select the trip in your app
+2. Tap "I would like a refund > "I had a different issue with my charge"
+
+
+34) How are fares calculated?
+Depending on the city where you ride with Uber, trip fares may be calculated upfront or immediately after rides end. Here's how these two types of fares work.
+
+UPFRONT FARES
+With upfront pricing, you know the exact cost of your trip before requesting. This fare includes (but is not limited to):
+-A base rate
+-Rates for estimated time and distance of the route
+-The current demand for rides in the area 
+
+A booking fee and any applicable surcharges, fees, and tolls are also calculated and included.
+
+When you request a ride, you agree to be charged the upfront fare when the trip ends. Your fare may increase if you travel to a different destination or make extra stops along the route, or the trip takes much longer than expected. 
+
+If an upfront fare is not honored, you will either be charged the minimum fare or a fare based on the measured time and distance for your trip, including any base fare, booking fee, surcharges, tolls, and other relevant factors such as a dynamic pricing charge. 
+
+You'll always get a receipt for any trip fare. If your fare is different than the upfront fare you agreed to, your receipt will explain why. 
+
+POST-TRIP FARES
+Some cities do not provide upfront fares. Instead, you're charged either a minimum fare or a fare based on the time and distance for your trip's route, including a base fare, booking fee, surcharges, tolls, and other relevant factors such as dynamic pricing when demand for rides is high in the area of the city where you're requesting a ride. Fares may vary by location, the vehicle option you select, and other factors. 
+
+
+35) Can I tip my driver with the app?
+You are free to tip and drivers are free to accept. 
+
+You can tip your driver at the end of your trip through the app. When prompted to provide a rating, first select a rating for your driver and then you will be given the option to add a tip as well. 
+
+You may also tip on a past trip through the app, on riders.uber.com, and from your emailed trip receipt. 
+
+To tip on a past trip from the app or riders.uber.com, select the trip from your trip history, and click "Add a tip"
+
+From your trip emailed to you, click "Add a tip"
+
+After a trip has ended, you have 30 days to add a tip in the app, on riders.uber.com, and from your emailed trip receipt. You can also give cash to your driver instead. 
+
+Note that on Split Fare trips, only the rider who originally requested the trip will be able to select the tip amount for a trip. If a tip is added by the original requester, it will not be split with the other passengers.
+
+Uber takes zero service fees on tips.
+
+
+36) How to get my receipt?
+When a trip ends, we automatically send a receipt to the email address on your Uber account. If you aren’t receiving receipts, check the spam or junk folder of this email address. You can review your email address by selecting “Settings” from your app menu. Tap your email address to update it.
+
+Your Uber account includes a trip history of every ride you’ve taken. To review:
+1. Select “Your Trips” from the app menu.
+2. Select a past trip.
+3. You can review the trip’s route, pickup location and final destination.
+4 For a full breakdown of your fare, tap Receipt. 
+
+To resend a receipt email for trips with an economy vehicle option, sign in to riders.uber.com and select “My Trips” from the menu. Select the trip and click the Resend button. 
+
+
+37) Does Uber have recurring charges?
+Good news! There are no recurring charges or membership fees for using Uber. You are only charged for the rides you take.
+
+
+38) Can drivers return lost items to Uber?
+Drivers sometimes return items to local Greenlight locations. Stop by during business hours to claim your item.
+
+In some cases, we will mail an item to you. We may cover the costs of UPS ground shipping in the continental US. This is contingent on the size and weight of the item. For expedited or international shipping, you must cover the cost.
+
+We hold items for 45 days. Unclaimed items are then donated to a local charity or disposed of.
+
+
+39) Will I be charged cleaning fees?
+In order for riders to enjoy safe, comfortable rides, drivers work hard to maintain clean vehicles.
+Riders are responsible for damage to the interior or exterior of a vehicle caused by incidents such as vomiting or food spills.
+Cleaning fees are assessed and charged according to the extent of damage. 
+
+Cleaning fees are based on nationwide industry averages for professional cleaning. These fees are paid in full to the vehicle's driver.
+
+In the event you are charged a cleaning fee, you will receive an updated trip receipt. To dispute a cleaning fee, please navigate to Trip Issues and Refunds > I want a refund > I was charged a cleaning fee. 
+
+
+40) Am I charged for cancelling?
+You can cancel a trip at any time before or after you've been paired with a driver, but in some situations, you may be charged a fee. 
+
+When cancellation fees don't apply:
+If your driver is late by 5 or more minutes. The time is based on the ETA that's displayed when your trip is first accepted
+If Uber detects that your driver isn't making progress to your pickup location
+
+When you'll be charged a cancellation fee for uberPOOL trips
+If you cancel more than 1 minute after your POOL request has been accepted. In some cases, your cancellation fees will be based on how far your driver has already driven.
+If your driver cancels after waiting at least 2 minutes at your pickup location
+
+When you'll be charged a cancellation fee for non-POOL trips 
+If you cancel more than 2 minutes after your request has been accepted. In some cases, your cancellation fees will be based on how far your driver has already driven.
+If your driver cancels after waiting at least 5 minutes at your pickup location
+
+No surprises
+You'll always be shown the exact fee when you cancel a trip before you confirm your cancellation. 
+
+Consecutive cancellations
+To keep the app running smoothly for everyone, you may be charged a penalty when you cancel trips more than once in a short period of time. 
+
+Requesting a refund
+If you believe you were incorrectly charged a cancellation fee, request a refund through the link below.
+
+
+41) Will I be charged a Booking fee?
+The booking fee is a separate flat fee added to every trip in most US markets on products like uberX and uberPOOL. It is included in the total price.
+
+The booking fee helps cover our regulatory, safety, and operational costs, including insurance protection for you and your drivers on every trip. 
+
+For more information about how every trip with Uber in the United States is insured, please visit this page: https://www.uber.com/newsroom/an-update-on-insurance/
+
+
+42) Is it okay to contact the driver or my co-rider after the trip?
+Unwanted contact with the driver or fellow passenger after a trip is against our Community Guidelines. This includes texting, calling, or visiting someone in person after your ride. 
+
+To contact your driver about a lost item, select LOST ITEMS below. 
+
+Remember, in most countries you can call and text your driver directly from the Uber app without sharing your personal phone number. This means that your phone number stays anonymous and is never given to the driver.
+
+
+43) Why was I charged a ride cancellation fee?
+Cancellation fees are charged to compensate drivers for time invested in traveling to a rider's pickup location. 
+
+When a driver is on the way to your pickup location, you can use your app to cancel your ride request. If you cancel the request 2 or more minutes after the driver accepted your request, you may be charged a cancellation fee.
+
+Drivers are also able to cancel a ride request. In this case, you may be charged a cancellation fee if the driver has waited 5 or more minutes at your pickup location. However, you will not be charged a cancellation fee if your driver is running 5 or more minutes late.
+
+Cancellation fees may differ depending on your city and selected vehicle option. 
+
+On uberPOOL trips, you may be charged a cancellation fee if you cancel any time after a driver accepts your ride request. Riders who are not at the pickup location for an uberPOOL ride within 2 minutes of the driver's arrival may be charged a no-show fee.
+
+If you were incorrectly charged a cancellation fee, let us know here. Be sure to select the correct trip. 
+
+
+44) What should I do if I get involved in an accident?
+Uber is committed to the safety of everyone using our platform. If you have been involved in an accident, please make sure that you and all parties involved are safe. Immediately notify police and paramedics if necessary.
+
+Please let us know what happened by sharing details that will help us to support you. We will get in touch.
+
+
+45) What should I do if my promo-code does not work?
+When you share your referral code with a friend who then takes a first trip, you'll receive a referral credit.
+
+In order for any promotional discount to be applied to a trip fare, you must enter the promo code before or during the trip. 
+
+The value of any promo code can only be applied to one trip. Any leftover value disappears and will not apply to your next trip.
+
+Please note promotions may have expiration dates or only apply in specific areas or cities. To review all promo codes currently applied to your account, select "Payment" from the app menu and then tap "Promotions." Details and expiration dates are listed.
+
+Uber places a temporary authorization hold on your payment method for the upfront trip fare at the beginning of a trip. This authorization hold currently does not include the discount applied by using a promo. This is not a charge but a temporary hold that should show up as pending on your account. The final amount on your receipt will be the amount charged to your payment method.
+
+If you were unable to apply a promo code for this trip, let us know. We'll review and make adjustments as necessary.
+
+
+46) Can my driver ask for a tip?
+As independent contractors, drivers may request tips at their discretion.
+
+Drivers care about rider ratings and do their best to create an ideal trip experience. While Uber does not require riders to offer drivers a cash tip, you are welcome to do so. Should you choose to tip, your driver is welcome to accept or decline.
+
+Please note that the trip fare charged to your payment account does not include a gratuity.
+
+Where available, uberTAXI is an exception. uberTAXI connects riders with licensed yellow cabs and includes the option to set the gratuity percentage added to your trip fare.
+
+
+47) What should I do if I lost an item during the ride in the car?
+A $15 fee is charged to your account once your lost item is returned. Drivers are independent contractors and this is to compensate them for their time. The entire fee is passed on to the driver. 
+
+The best way to retrieve an item you may have left in a vehicle is to call the driver. Here's how:
+
+1. Scroll down and enter the phone number you would like to be contacted 
+2. Tap submit
+Note: If you lost your personal phone, enter a friend's phone number instead. 
+3. We'll call the number you enter to connect you directly with your driver
+
+If your driver picks up and confirms that your item has been found, coordinate a mutually convenient time and place to meet for its return to you. 
+
+If your driver doesn't pick up, leave a detailed voicemail describing your item and the best way to contact you. 
+
+Please be considerate that your driver's personal schedule will be affected by taking time out to return your item to you.
+
+Drivers are independent contractors. Neither Uber nor drivers are responsible for the items left in a vehicle after a trip ends. We're here to help, but cannot guarantee that a driver has your item or can immediately deliver it to you. 
+
+Note: You will be charged for the return of this item. Learn more by selecting LOST ITEM FEE below.
+
+
+48) How to earn free credits?
+Earn free rides by inviting friends to sign up and ride with Uber. To see your invite code, tap FREE RIDES in the app menu. 
+you
+When friends sign up with your invite code, their first ride will be free. Once a friend has ridden with Uber, your next ride in any city that shares your signup city's national currency will be free. 
+
+You can share your code by tapping Invite Friends and selecting one of the options available. These include text, email, sharing on social media or copying your personal invite code. 
+
+Personal invite codes should only be used for personal and non-commercial purposes. This means you can share your invite link with your personal connections via social media as long as you are the primary content owner. 
+
+Public distribution on sites where you are a contributor but not the primary content owner (for example, Wikipedia, Reddit, coupon websites) is not permitted. Promoting your referral code via search engine marketing (for example, AdWords, Yahoo, Bing) is also not permitted.
+
+Referral promotion codes are only applicable to an invited user's first ride and not intended for existing users. Existing users attempting to take advantage of the referral program may have their referral promotions disabled.
+
+Uber reserves the right to suspend rider accounts and revoke referral promotions that violate these terms. 
+
+
+49) What should I do if my vehicle was in a poor condition?
+We hope every ride with Uber is safe and comfortable. 5-star partners keep vehicle interiors neat, clean, and free of strong or unpleasant odors. 
+
+If the vehicle for this trip truly did not meet expectations of cleanliness or safety please let us know by signing into the app and lodging a complaint. 
+
+Please use sparingly as complaints can potentially have negative results on driver accounts. 
+
+
+50) What is Uber's policy about assistive devices?
+Uber expects partners to comply with all applicable state, federal, and local laws governing the transportation of riders with disabilities. A partner's violation of such laws constitutes a breach of his or her contractual agreement with Uber. 
+
+Accordingly, partners are expected to accommodate riders using walkers, canes, folding wheelchairs or other assistive devices to the maximum extent feasible.
+
+Any report of unlawful discrimination will result in the temporary deactivation of a partner's account while Uber reviews the incident. Confirmed violations of the law with respect to riders with disabilities may result in permanent loss of a partner's access to the Uber platform.
+
+
+
+
