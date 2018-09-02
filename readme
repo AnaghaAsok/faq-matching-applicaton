@@ -1,15 +1,9 @@
-For Task 2:
-Run the program task2.py from the console. Enter the input question when prompted.
-The program outputs the first 10 best matches.
 
-$python task2.py
-
-For Task3 and Task4:"
 Configure solr
 -Download and unzip Solr from http://archive.apache.org/dist/lucene/solr/"version"
 -Start the solr. ./bin/solr start
 -Start a new core. ./bin/solr create -c "nlp_core2"
--Change the managed-schema to add feature table schema as given in the attached file.
+-Change the managed-schema to add feature table schema
 -run indexer.py to index the features of the corpus to solr.
 -Run project_main.py
 - Input test sentence and the program will output the table of the features of the question. Top 10 results of weighted and non-weighted search from solr are displayed.
